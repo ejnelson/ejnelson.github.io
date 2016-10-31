@@ -20,8 +20,10 @@ h1{
 h2{
   font-size:14;
   text-decoration: underline;
+  font-weight: bold;
 }
 
 h3{
  font-size:14; 
+ font-weight: bold;
 }
