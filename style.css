@@ -20,19 +20,20 @@ h1{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin:0px;
   padding:0px;
+  font-weight:light;
 }
 
 h2{
   font-size:14px;
   text-decoration: underline;
-  font-weight: bold;
+  font-weight: heavy;
   margin:0px;
   padding:0px;
 }
 
 h3{
  font-size:14px; 
- font-weight: bold;
+ font-weight: heavy;
  margin:0px;
  padding:0px;
 }
