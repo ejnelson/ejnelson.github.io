@@ -1,8 +1,25 @@
+
+
 p{
   color:black;
 }
 
 .container{
- color:black; 
- background-color:white;
+  color:black; 
+  background-color:white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+h1{
+ font-size:24;
+  
+}
+
+h2{
+  font-size:14;
+}
+
+h3{
+ font-size:14; 
 }
