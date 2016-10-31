@@ -11,7 +11,8 @@ p{
   color:black; 
   background-color:white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+  width:800px;
+  margin:auto;
 }
 
 h1{
