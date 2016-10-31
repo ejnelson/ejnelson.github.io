@@ -6,7 +6,10 @@ p{
   margin:0px;
   padding:0px;
 }
-
+.date{
+ display:block;
+  float:right;
+}
 .container{
   color:black; 
   background-color:white;
