@@ -13,11 +13,13 @@ p{
 
 h1{
  font-size:24;
+  border-style:none none solid none;
   
 }
 
 h2{
   font-size:14;
+  text-decoration: underline;
 }
 
 h3{
