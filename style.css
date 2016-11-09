@@ -11,8 +11,8 @@ p{
   float:right;
   width:200px;
 }
-.container{
-  color:black; 
+main{
+  color:black;
   background-color:white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   width:800px;
@@ -37,7 +37,7 @@ h2{
 }
 
 h3{
- font-size:14px; 
+ font-size:14px;
  font-weight: heavy;
  margin:0px;
  padding:0px;
@@ -49,4 +49,13 @@ ul{
  font-size:12px;
   margin:0px;
 
+}
+section{
+  margin:15px;
+  max-height:20px;
+  overflow:hidden;
+  transition: all 1s;
+}
+section:hover{
+  max-height:1000px;
 }
